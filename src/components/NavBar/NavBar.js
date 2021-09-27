@@ -6,14 +6,13 @@ const NavBar = () => {
     return (
         <nav>
             <ul>
-            <a><li>Nombre Tienda</li></a>
-            <a><li>Home</li></a>
-            <a><li>Ofertas</li></a>
-            <a> <li>tendencias</li></a>
-            <a><li>Perfil</li></a>
-            <a><li>Carrito</li></a>
+            <li><a href="#"> Tofemi</a></li>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Ofertas</a></li>
+            <li><a href="#">tendencias</a></li>
+            <li><a href="#">Perfil</a></li>
+            <li><a href="#">Carrito</a></li>
             </ul>
-
         </nav>
     );
 };
