@@ -1,0 +1,25 @@
+/* .NavBar {
+  
+} */
+
+nav{
+    text-decoration: none;
+    background-color: #989898;
+	border-bottom: solid; color: #0D0D0D;
+	border-width: 2px;
+    align-items: center; 
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-around;
+    align-items: flex-end;
+
+};
+
+li{
+   flex-direction: row;
+   text-decoration: none;
+   align-items: baseline;
+};
